@@ -1,0 +1,8 @@
+stepDefinitions\LoginSteps.class
+pageObjects\LoginPage.class
+pageFactory\PF_LoginPage.class
+pageFactory\PF_HomePage.class
+testRunner\testRun_Login.class
+stepDefinitions\LogoutSteps.class
+testRunner\testRun_Logout.class
+utilities\Hooks.class
